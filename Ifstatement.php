@@ -11,7 +11,7 @@ if ($bool > $test) {
 } else {
   echo  " Het is niet waar<br>";
 }
-
+echo "heey";
 
 
 
