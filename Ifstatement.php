@@ -1,4 +1,7 @@
 <?php
+// PHP Opdracht door:
+// Joey Clazing
+
 
 $bool = 326; "De waarde is " . $bool;
 $test = 327;

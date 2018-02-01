@@ -1,6 +1,8 @@
 <center>
-
 <?php
+// PHP Opdracht door:
+// Joey Clazing
+
 
 $regel = 10;
 

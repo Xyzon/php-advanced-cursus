@@ -1,4 +1,8 @@
 <?php
+// PHP Opdracht door:
+// Joey Clazing
+
+
 $bool = -1; echo "De waarde is " . $bool;
 echo $bool ? " Het is waar<br>" : " Het is niet waar<br>";
 echo "<br>";
